@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 ### 🔝 Top Contributed Repo
-![Jatin Sadh GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JATINSADH)
+![Jatin Sadh GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JATINSADH&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JATINSADH&icon=0&color=0)](https://visitcount.itsvg.in)

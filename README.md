@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Sadh</h1>
 <h3 align="center">A AI&ML Engineer, An Programmer.</h3>
 
-<img align="right" alt="coading" width="400" style="margin-top: 100px; margin-bottom: 100px;" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+<img align="right" alt="coading" width="230" style="margin-top: 20px; margin-bottom: 20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQwdnJkZDhlZm5oY3Q5cm5zbGlmZ21yM3Y4dGgxdjdpdGgxd242bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ### 🌟 About Me:
 - 🔭 I’m currently pursuing **B.Tech @ Arya College of Engineering, Jaipur**. 

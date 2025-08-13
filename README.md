@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Jatin Sadh</h1>
 <h3 align="center">A AI&ML Engineer, An Programmer.</h3>
 
-<img align="right" alt="coading" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+
+<div align="left">
+  <iframe src="https://lottiefiles.com/iframe/preview?url=https://raw.githubusercontent.com/JATINSADH/JATINSADH/main/developer-animation.json" width="300" height="300" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jatinsadh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsadh" /> </p>
 

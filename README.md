@@ -1,39 +1,39 @@
-![logo](https://github.com/JATINSADH/JATINSADH/blob/main/AI%20%20Machine%20Learning%20%20Deep%20Learning%20%20Natural%20Language%20Processing%20(7).png)
+<div align="center">
+  <img src="https://github.com/JATINSADH/JATINSADH/blob/main/AI%20%20Machine%20Learning%20%20Deep%20Learning%20%20Natural%20Language%20Processing%20(7).png" alt="Jatin Sadh Logo" width="1000" />
+</div>
 <h1 align="center">Hi 👋, I'm Jatin Sadh</h1>
 <h3 align="center">A AI&ML Engineer, An Programmer.</h3>
 
+<img align="right" alt="coading" width="400" style="margin-top: 100px; margin-bottom: 100px;" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 
-<div align="left">
-<lottie-player src="https://github.com/JATINSADH/JATINSADH/blob/main/Main%20Scene.json" background="transparent" speed="1" style="width: 400px; height: 400px;" loop autoplay></lottie-player>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=jatinsadh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsadh" /> </p>
-
-# 🌟 About Me:
-- 🔭 I’m currently pursuing **B.Tech @ Arya College of Engineering, Jaipur**.  
-- 👯 I’m looking to collaborate on various **AI and ML projects**.  
-- 🤝 I’m looking for help with **Learning and Making Projects**.  
-- 🌱 I’m currently learning **AI & ML**.
+### 🌟 About Me:
+- 🔭 I’m currently pursuing **B.Tech @ Arya College of Engineering, Jaipur**. 
+- 🌱 I’m currently learning **AI & ML, Data Science**
+- 👯 I’m looking to collaborate on various **AI and ML projects**.
+- 🤝 I’m looking for help with **Learning and Making Projects**. 
+- 👨‍💻 my portfolio are available at [My Portfolio](https://jatinsadh.netlify.app/)
+- 📝 I write articles on [My Blogs](https://jatinsadh.medium.com/)
+- 📄 Know about my experiences [My Resume](https://jatinsadh.netlify.app/view-resume?cert=resume)
 - ⚡ Fun fact **I Think I Am Funny 😗**
-<br>
 
-# 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/jatinsadpatva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin788797" height="30" width="40" /></a>
-<a href="https://instagram.com/jatinsadh79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsadh79" height="30" width="40" /></a>
-</p>
-<br>
+# <h3 align="left">📝 Blogs posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-# 💻 Languages and Tools:
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p> 
-<br>
+# <h3 align="left">🌐 Connect with me:</h3>
+<p align="left"> <a href="https://linkedin.com/in/jatinsadpatva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatinsadpatva" height="30" width="40" /></a> <a href="https://instagram.com/jatinsadh79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsadh79" height="30" width="40" /></a> <a href="https://medium.com/@jatinsadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jatinsadh" height="30" width="40" /></a> <a href="https://www.hackerrank.com/jatinsadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jatinsadh" height="30" width="40" /></a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=default_repocard&hide_border=false)<br/>
+# <h3 align="left">💻 Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+
+# <h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-### 🔝 Top Contributed Repo
-![Jatin Sadh GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JATINSADH)
+# <div style="display: flex; justify-content: space-between; gap: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=default_repocard&hide_border=false" /> </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=JATINSADH&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">🔝 Top Contributed Repo</h3> 
+<div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=JATINSADH" alt="Jatin Sadh GitHub Repository Contribution stats" /> </div>
+
+# <h3 align="left">👀 Profile Visitors</h3>
+<div align="left">
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=jatinsadh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsadh" /> </p>
+</div>

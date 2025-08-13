@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Sadh</h1>
 <h3 align="center">A AI&ML Engineer, An Programmer.</h3>
 
-<img align="right" alt="coading" width="230" style="margin-top: 20px; margin-bottom: 20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQwdnJkZDhlZm5oY3Q5cm5zbGlmZ21yM3Y4dGgxdjdpdGgxd242bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coading" width="200" style="margin-top: 20px; margin-bottom: 20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQwdnJkZDhlZm5oY3Q5cm5zbGlmZ21yM3Y4dGgxdjdpdGgxd242bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ### 🌟 About Me:
 - 🔭 I’m currently pursuing **B.Tech @ Arya College of Engineering, Jaipur**. 
@@ -28,7 +28,7 @@
 
 # <h3 align="left">📊 GitHub Stats:</h3>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# <div style="display: flex; justify-content: space-between; gap: 20px;"> <img src="https://github-readme-stats.vercel.app/api?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=default_repocard&hide_border=false" /> </div>
+# <div style="display: flex; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api?username=JATINSADH&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=default_repocard&hide_border=false" /> </div>
 
 <h3 align="left">🔝 Top Contributed Repo</h3> 
 <div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=JATINSADH" alt="Jatin Sadh GitHub Repository Contribution stats" /> </div>

@@ -4,8 +4,7 @@
 
 
 <div align="left">
-  <iframe src="https://lottiefiles.com/iframe/preview?url=https://raw.githubusercontent.com/JATINSADH/JATINSADH/main/developer-animation.json" width="300" height="300" frameborder="0" allowfullscreen></iframe>
-</div>
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_xxx.json" background="transparent" speed="1" style="width: 400px; height: 400px;" loop autoplay></lottie-player>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jatinsadh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsadh" /> </p>
 

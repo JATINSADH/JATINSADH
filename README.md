@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/JATINSADH/JATINSADH/blob/main/AI%20%20Machine%20Learning%20%20Deep%20Learning%20%20Natural%20Language%20Processing%20(7).png" alt="Jatin Sadh Logo" width="1000" />
+  <img src="https://github.com/JATINSADH/JATINSADH/blob/main/AI%20%20Machine%20Learning%20%20Deep%20Learning%20%20Natural%20Language%20Processing%20(8).png" alt="Jatin Sadh Logo" width="1000" />
 </div>
 
-# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jatin+Sadh!;&color=7FFF00&background=00000000" /> </div>
+# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jatin+Sadh!;&color=ffffff&background=00000000" /> </div>
 
-# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=500&pause=20000&lines=An+AIML+Engineer+,+A+Progrmmer!;&color=7FFF00&background=00000000" /> </div>
+# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=500&pause=20000&lines=An+AIML+Engineer+,+A+Progrmmer!;&color=ffffff&background=00000000" /> </div>
 
 <img align="right" alt="coading" width="200" style="margin-top: 20px; margin-bottom: 20px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQwdnJkZDhlZm5oY3Q5cm5zbGlmZ21yM3Y4dGgxdjdpdGgxd242bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 

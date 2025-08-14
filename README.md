@@ -45,4 +45,4 @@
  <p align="left"><img src="https://komarev.com/ghpvc/?username=jatinsadh&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsadh" /> </p>
 </div>
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&pause=2000&lines=Thanks+for+visiting!+✌️;+I'm+always+down+to+collab+:)!;&color=7FFF00&background=00000000" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&pause=2000&lines=Thanks+for+visiting!+✌️;+I'm+always+down+to+collab+:)!;&color=ffffff&background=00000000" /> </div>

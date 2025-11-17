@@ -35,7 +35,8 @@
 <br>
 <div style="display: flex; justify-content: space-between; gap: 20px;"> <img width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JATINSADH&theme=chartreuse-dark&layout=compact" /> <img src="https://github-readme-stats.vercel.app/api?username=JATINSADH&theme=chartreuse-dark&hide_border=false&include_all_commits=false&rank_icon=github&show_icons=true&count_private=true" /> </div>
 
-# <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=chartreuse-dark&hide_border=false" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=JATINSADH&theme=chartreuse-dark&hide_border=false" /> -->
+# <img src="https://streak-stats.demolab.com/?user=JATINSADH&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" /> 
 
 <h3 align="left">🔝 Top Contributed Repo</h3> 
 <div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=JATINSADH&theme=chartreuse-dark&hide_border=false" alt="Jatin Sadh GitHub Repository Contribution stats" /> </div>
